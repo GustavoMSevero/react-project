@@ -58,7 +58,7 @@ export default function EditUser() {
 
   return (
     <div>
-      <h1>Edit User</h1>
+      <h1>Editar Usuário</h1>
       <form onSubmit={handleSubmit}>
         <label>Name</label>
         <input
