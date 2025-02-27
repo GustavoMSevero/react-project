@@ -16,7 +16,7 @@ function App() {
                 <Link to="/">Listar Usuários</Link>
               </li>
               <li>
-                <Link to="user/create">Criar Usúario</Link>
+                <Link to="user/create">Criar Usuário</Link>
               </li>
             </ul>
           </nav>

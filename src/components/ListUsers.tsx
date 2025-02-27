@@ -48,7 +48,7 @@ export default function ListUsers() {
 
   return (
     <div>
-      <h1>Listar Usários</h1>
+      <h1>Listar Usuários</h1>
       <div className="table">
         <Table striped bordered hover size="sm">
           <thead>
